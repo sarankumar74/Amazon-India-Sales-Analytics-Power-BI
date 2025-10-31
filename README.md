@@ -1,14 +1,12 @@
 # 🛒 Amazon India: A Decade of Sales Analytics 📈🇮🇳
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![SQL](https://img.shields.io/badge/Database-SQL-green?logo=postgresql)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
-![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-lightblue)
-![PowerBI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit)
-![Domain](https://img.shields.io/badge/Domain-E--Commerce%20Analytics-blueviolet)
-
+![Python](https://www.python.org/downloads/)
+![SQL](https://www.mysql.com/downloads/)
+![Pandas](https://pandas.pydata.org/docs/)
+![Matplotlib](https://matplotlib.org/stable/index.html)
+![Seaborn](https://seaborn.pydata.org/)
+![PowerBI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+![Streamlit](https://streamlit.io/)
 ---
 
 ## 📘 Overview
