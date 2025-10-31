@@ -1,12 +1,5 @@
 # 🛒 Amazon India: A Decade of Sales Analytics 📈🇮🇳
 
-![Python](https://www.python.org/downloads/)
-![SQL](https://www.mysql.com/downloads/)
-![Pandas](https://pandas.pydata.org/docs/)
-![Matplotlib](https://matplotlib.org/stable/index.html)
-![Seaborn](https://seaborn.pydata.org/)
-![PowerBI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-![Streamlit](https://streamlit.io/)
 ---
 
 ## 📘 Overview
